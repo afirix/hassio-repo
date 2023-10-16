@@ -135,5 +135,5 @@
   "ports": {
     "9273/tcp": 9273
   },
-  "image": "afirix/{arch}-hassio-telegraf"
+  "image": "firix/{arch}-hassio-telegraf"
 }
