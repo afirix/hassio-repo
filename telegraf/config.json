@@ -1,15 +1,11 @@
 {
   "name": "Telegraf",
-  "version": "1.0.0",
-  "slug": "hassio_telegraf",
-  "description": "An addon to add telegraf to hassio.",
+  "version": "1.0.1",
+  "slug": "telegraf",
+  "description": "An addon to add telegraf to hassio",
   "url": "https://github.com/afirix/hassio-telegraf",
   "arch": [
-    "armhf",
-    "armv7",
-    "aarch64",
-    "amd64",
-    "i386"
+    "armhf"
   ],
   "init": false,
   "startup": "services",
